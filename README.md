@@ -1,1 +1,1 @@
-# QA_Proj_Cypress_VR
+# QA_Prac_Cypress_EluminiIt_VR.
